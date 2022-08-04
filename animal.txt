@@ -1,3 +1,4 @@
 elephant
 cow
 dog
+cat
